@@ -1,1 +1,0 @@
-echo "WELCOME TO TOOL VIRUS"
